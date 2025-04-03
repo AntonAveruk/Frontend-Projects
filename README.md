@@ -53,8 +53,9 @@ Here are some of the projects included in this repository:
    - Offers fun gameplay with responsive controls and animations.
 
 ### 6. **Sona-Master**
-   - An interactive and engaging music player built using **Vanilla JavaScript**.
-   - Users can play, pause, and skip through music tracks with a smooth interface.
+   - A hotel booking system built using **Vanilla JavaScript**.
+   - Users can search for available rooms, make bookings, and view hotel details with a smooth, user-friendly interface.
+   - Features include sorting by room type, price range, and availability.
 
 ### 7. **Stack-Game-Master**
    - A stack-based puzzle game.
